@@ -1,5 +1,5 @@
 flask
 bson
-pymongo==3.7.2
+pymongo==4.6.3
 requests
 kafka-python
